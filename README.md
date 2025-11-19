@@ -18,7 +18,7 @@ problemas. Me motiva mejorar cada día y aportar valor en este ámbito, ya sea a
 procesos, creando soluciones eficientes o desarrollando aplicaciones, productos y páginas 
 web que realmente sean útiles.
 
-## 🧩 Lenguajes y Tecnologías Estudiadas
+## 🧩 Lenguajes y Tecnologías Estudiadas en el grado
 
 ### 📚 Bases de datos
 - **SQL** con MySQL
